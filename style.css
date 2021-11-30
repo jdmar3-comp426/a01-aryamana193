@@ -1,0 +1,39 @@
+p {
+    color: green;
+}
+*{
+    font-size:18px;
+}
+
+h1{
+    color: red;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+.subheader{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;  
+}
+nav{
+    text-align: center;
+}
+
+a.hist:hover{
+    color: 800080;
+}
+
+body{
+    background-color: ADD8E6;
+}
+#para1{
+    text-align:center;
+}
+
+div{
+    height: 200px;
+    width: 50%;
+}
+h2{
+    color: FFA500;
+}
