@@ -20,11 +20,11 @@ nav{
 }
 
 a.hist:hover{
-    color: 800080;
+    color: #800080;
 }
 
 body{
-    background-color: ADD8E6;
+    background-color: #ADD8E6;
 }
 #para1{
     text-align:center;
@@ -35,5 +35,8 @@ div{
     width: 50%;
 }
 h2{
-    color: FFA500;
+    color: #FFA500;
+}
+h3{
+    color:aquamarine;
 }
