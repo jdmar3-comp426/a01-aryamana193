@@ -1,0 +1,56 @@
+p {
+    color: blue;
+}
+*{
+    font-size:18px;
+}
+
+h1{
+    color: red;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+}
+.subheader{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;  
+}
+nav{
+    text-align: center;
+}
+
+a.hist:hover{
+    color: #800080;
+}
+
+body{
+    background-color: #ADD8E6;
+}
+#para1{
+    text-align:center;
+}
+
+div{
+    height: 200px;
+    width: 50%;
+    color: green;
+}
+h2{
+    color: #FFA500;
+}
+h3{
+    color:aquamarine;
+}
+
+h4{
+    color: blue;
+    text-align:center;
+}
+div.content h1 {
+	font-weight: bold;
+	font: 1.5em Arial, Helvetica, sans-serif;
+	padding: 50px 0 50px 0;
+}
+div.content {
+	margin: 50px;
+}
