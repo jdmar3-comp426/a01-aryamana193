@@ -46,3 +46,11 @@ h4{
     color: blue;
     text-align:center;
 }
+div.content h1 {
+	font-weight: bold;
+	font: 1.5em Arial, Helvetica, sans-serif;
+	padding: 50px 0 50px 0;
+}
+div.content {
+	margin: 50px;
+}
